@@ -1,6 +1,6 @@
 # Heart Disease Prediction ![](https://raw.githubusercontent.com/chayandatta/Heart_disease_prediction/master/Large45.jpg) [![HitCount](http://hits.dwyl.io/chayandatta/Heart_disease_prediction.svg)](http://hits.dwyl.io/chayandatta/Heart_disease_prediction)
 
-[Final code](https://github.com/chayandatta/techInterview/blob/master/hashmap.py)
+[Final code](https://github.com/chayandatta/Heart_disease_prediction/blob/master/heart_Disease.ipynb)
 
 ![](https://raw.githubusercontent.com/chayandatta/Heart_disease_prediction/master/download.png) 
 
