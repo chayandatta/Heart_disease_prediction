@@ -2,6 +2,19 @@
 
 [Final code](https://github.com/chayandatta/Heart_disease_prediction/blob/master/heart_Disease.ipynb)
 
+```
+Heart Disease prediction using 5 algorithms
+
+- Logistic regression,
+- Random forest,
+- Naive Bayes,
+- KNN(K Nearest Neighbors),
+- Decision Tree
+
+then improved accuracy by adjusting different aspect of algorithms.
+
+```
+
 ![](https://raw.githubusercontent.com/chayandatta/Heart_disease_prediction/master/download.png) 
 
 Source:
