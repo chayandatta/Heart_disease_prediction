@@ -1,4 +1,4 @@
-# Heart Disease Prediction ![](https://raw.githubusercontent.com/chayandatta/Heart_disease_prediction/master/Large45.jpg) [![HitCount](http://hits.dwyl.io/chayandatta/Heart_disease_prediction.svg)](http://hits.dwyl.io/chayandatta/Heart_disease_prediction)
+# Heart Disease Prediction ![](https://raw.githubusercontent.com/chayandatta/Heart_disease_prediction/master/Large45.jpg) [![HitCount](http://hits.dwyl.io/chayandatta/Heart_disease_prediction.svg)](http://hits.dwyl.io/chayandatta/Heart_disease_prediction) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chayandatta/Heart_disease_prediction/master)
 
 [Final code](https://github.com/chayandatta/Heart_disease_prediction/blob/master/heart_Disease.ipynb)
 
