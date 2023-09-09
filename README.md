@@ -43,7 +43,7 @@ This repository is organized into the following sections:
 1. **Clone the Repository**: Start by cloning this repository to your local machine using `git clone`.
 
 ```bash
-git clone https://github.com/yourusername/machine-learning-for-beginners.git
+git clone https://github.com/chayandatta/Heart_disease_prediction.git
 ```
 
 2. **Explore Tutorials and Code Examples**: Browse the `Tutorials` and `Code Examples` directories to learn and experiment with different machine learning concepts. Each folder contains its own README file with instructions.
