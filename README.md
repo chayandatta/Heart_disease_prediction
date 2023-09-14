@@ -56,7 +56,7 @@ git clone https://github.com/chayandatta/Heart_disease_prediction.git
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
+contributions from the community is welcomed! If you'd like to contribute to this project, please follow these guidelines:
 
 1. Fork this repository.
 2. Create a new branch for your contribution.
@@ -64,7 +64,7 @@ We welcome contributions from the community! If you'd like to contribute to this
 4. Test your changes thoroughly.
 5. Create a pull request (PR) with a clear description of your contribution.
 
-We appreciate your help in making machine learning more accessible to beginners.
+I appreciate your help in making machine learning more accessible to beginners.
 
 ## License
 
@@ -72,7 +72,7 @@ This project is licensed under the MIT License. You can find the full license de
 
 ---
 
-We hope you find this repository helpful on your journey to learning machine learning. If you have any questions or encounter issues, please feel free to open an issue, and we'll be happy to assist you. Happy learning! 🚀
+I hope you find this repository helpful on your journey to learning machine learning. If you have any questions or encounter issues, please feel free to open an issue, and I'll be happy to assist you. Happy learning! 🚀
 
 ```
 Heart Disease prediction using 5 algorithms
@@ -110,3 +110,9 @@ Dataset source ([link](https://archive.ics.uci.edu/ml/datasets/Heart+Disease))
 
 This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to 
 this date. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4. Experiments with the Cleveland database have concentrated on simply attempting to distinguish presence (values 1,2,3,4) from absence (value 0). 
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chayandatta/Heart_disease_prediction&type=Date)](https://star-history.com/#chayandatta/Heart_disease_prediction&Date)
