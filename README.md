@@ -89,7 +89,7 @@ then improved accuracy by adjusting different aspect of algorithms.
 
 ![](https://raw.githubusercontent.com/chayandatta/Heart_disease_prediction/master/download.png) 
 
-> Final Dicision tree
+> Final Decision tree
 
 
 ---
